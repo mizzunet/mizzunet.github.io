@@ -59,6 +59,9 @@ main > .tagline {
 	padding: 10px;
 }
 
+.icons-social svg {
+	padding: 10px;
+}
 .devto {
 	margin-bottom: -0.20rem;
 }
